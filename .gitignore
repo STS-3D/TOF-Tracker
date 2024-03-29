@@ -1,0 +1,8 @@
+*.DS_Store
+*config.py
+*config.h
+*config.cpp
+*.json
+*ipynb_checkpoints
+*imgs/
+*tof_display.ipynb
